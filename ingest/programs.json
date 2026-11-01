@@ -1,0 +1,166 @@
+{
+ "checked_at": "2026-11-01",
+ "note": "Official programme pages verified reachable on the checked_at date. These entries never claim a deadline: the app shows 'Dates on portal' and the student confirms the live window on the official page.",
+ "programs": [
+  {
+   "title": "Post-Matric Scholarship for SC Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/25",
+   "description": "Financial support for Scheduled Caste students pursuing studies after Class 10. Check the current eligibility, income limits and application window on the official scheme page.",
+   "tags": ["SC students", "post-matric", "government"]
+  },
+  {
+   "title": "Pre-Matric Scholarship for SC Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/23",
+   "description": "School-level scholarship support for Scheduled Caste students. Check the classes covered, income limits and application window on the official scheme page.",
+   "tags": ["SC students", "pre-matric", "government"]
+  },
+  {
+   "title": "Top Class Education Scholarship for SC Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/27",
+   "description": "Central Sector scholarship supporting Scheduled Caste students at notified top-class institutions. Confirm eligible institutions and the live application window on the official page.",
+   "tags": ["SC students", "top class education", "government"]
+  },
+  {
+   "title": "National Overseas Scholarship for SC Candidates",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/28",
+   "description": "Support for eligible Scheduled Caste candidates pursuing selected overseas postgraduate courses. Check eligibility, income limits and the current application window on the official page.",
+   "tags": ["SC students", "overseas", "government"]
+  },
+  {
+   "title": "Scholarship for PM CARES Children",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/102",
+   "description": "Scholarship support for eligible children under the PM CARES for Children scheme. Check the current scheme details and eligibility on the official page.",
+   "tags": ["PM CARES", "government", "school"]
+  },
+  {
+   "title": "Google Scholarship Programmes",
+   "org": "Google",
+   "category": "scholarships",
+   "url": "https://buildyourfuture.withgoogle.com/scholarships",
+   "description": "Google's scholarship programmes for students in computer science and related fields. Specific programmes, eligibility and application cycles vary; confirm on the official page.",
+   "tags": ["computer science", "Google", "global"]
+  },
+  {
+   "title": "National Fellowship for Scheduled Caste Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "fellowships",
+   "url": "https://socialjustice.gov.in/schemes/29",
+   "description": "Fellowship support for Scheduled Caste students pursuing M.Phil or PhD at recognised universities. Check current eligibility, tenure and the application route on the official page.",
+   "tags": ["SC students", "PhD", "fellowship", "government"]
+  },
+  {
+   "title": "National Fellowship for OBC Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "fellowships",
+   "url": "https://socialjustice.gov.in/schemes/7",
+   "description": "Fellowship support for Other Backward Class students pursuing M.Phil or PhD at recognised universities. Confirm eligibility, tenure and the current application route on the official page.",
+   "tags": ["OBC students", "PhD", "fellowship", "government"]
+  },
+  {
+   "title": "DAE Doctoral Fellowship Scheme",
+   "org": "Bhabha Atomic Research Centre",
+   "category": "fellowships",
+   "url": "https://www.barc.gov.in/careers/ddfs.html",
+   "description": "Doctoral fellowship scheme of the Department of Atomic Energy, administered through BARC. Check the current research areas, eligibility and application cycle on the official page.",
+   "tags": ["PhD", "BARC", "Department of Atomic Energy", "fellowship"]
+  },
+  {
+   "title": "Free Coaching for SC, OBC and PM CARES Children",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "schemes",
+   "url": "https://socialjustice.gov.in/schemes/30",
+   "description": "Free coaching scheme for eligible SC, OBC and PM CARES children preparing for competitive examinations. Check available courses and the current intake on the official page.",
+   "tags": ["free coaching", "competitive exams", "government"]
+  },
+  {
+   "title": "BARC OCES and DGFS Graduate Training",
+   "org": "Bhabha Atomic Research Centre",
+   "category": "schemes",
+   "url": "https://www.barc.gov.in/careers/training.html",
+   "description": "BARC's graduate training and fellowship pathways for engineering, science and health students. Confirm the current cycle, disciplines and eligibility on the official page.",
+   "tags": ["BARC", "graduate training", "stipend", "government"]
+  },
+  {
+   "title": "National Apprenticeship Promotion Scheme",
+   "org": "Apprenticeship India, Government of India",
+   "category": "schemes",
+   "url": "https://www.apprenticeshipindia.gov.in/",
+   "description": "Official portal for apprenticeship opportunities and the National Apprenticeship Promotion Scheme. Search live openings, eligibility and employer details on the portal.",
+   "tags": ["apprenticeship", "NSQF", "government"]
+  },
+  {
+   "title": "AICTE National Internship Portal",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/",
+   "description": "Internships from ministries, public sector units, urban local bodies and industry for AICTE, UGC and IGNOU students. Use the portal to check live roles, stipend and deadlines.",
+   "tags": ["AICTE", "UGC", "IGNOU", "government internships"]
+  },
+  {
+   "title": "TULIP Urban Learning Internship",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/dashboards/tulip",
+   "description": "The Urban Learning Internship Programme places students with urban local bodies and smart-city projects under the Ministry of Housing and Urban Affairs. Check live roles on the portal.",
+   "tags": ["TULIP", "smart cities", "urban planning", "government internships"]
+  },
+  {
+   "title": "C-DAC Internship Dashboard",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/dashboards/cdac",
+   "description": "C-DAC internships listed through AICTE's National Internship Portal, covering computing and electronics opportunities. Confirm open roles, eligibility and deadlines on the portal.",
+   "tags": ["C-DAC", "computing", "electronics", "government internships"]
+  },
+  {
+   "title": "NHAI Internship Dashboard",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/dashboards/nhai",
+   "description": "NHAI internships in highways and infrastructure, listed through AICTE's National Internship Portal. Check current roles, locations, eligibility and deadlines on the portal.",
+   "tags": ["NHAI", "highways", "infrastructure", "government internships"]
+  },
+  {
+   "title": "Indian Army Internship Dashboard",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/dashboards/indianarmy",
+   "description": "Indian Army internship opportunities listed through AICTE's National Internship Portal, including cyber defence and engineering roles. Verify open roles and eligibility on the portal.",
+   "tags": ["Indian Army", "cyber defence", "engineering", "government internships"]
+  },
+  {
+   "title": "PM Internship Scheme",
+   "org": "Ministry of Corporate Affairs",
+   "category": "internships",
+   "url": "https://pminternship.mca.gov.in/",
+   "description": "Government internship scheme offering short-term internships with participating companies. Registration, eligibility and current opportunities are published on the official portal.",
+   "tags": ["PM Internship", "government", "companies"]
+  },
+  {
+   "title": "Google Summer of Code",
+   "org": "Google",
+   "category": "internships",
+   "url": "https://summerofcode.withgoogle.com/",
+   "description": "Global open-source contribution programme where selected participants work with mentoring organisations. Eligibility and the annual application window vary; confirm current dates on the official site.",
+   "tags": ["open source", "Google", "global", "stipend"]
+  },
+  {
+   "title": "Smart India Hackathon",
+   "org": "Ministry of Education, Government of India",
+   "category": "hackathons",
+   "url": "https://sih.gov.in/",
+   "description": "Nationwide innovation hackathon for students, with problem statements from ministries and organisations. The official portal publishes the current edition, registration route and schedule.",
+   "tags": ["SIH", "government", "innovation", "team event"]
+  }
+ ]
+}

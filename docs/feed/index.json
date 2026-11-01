@@ -1,0 +1,46 @@
+{
+ "generated_at": "2026-11-01T16:51:12Z",
+ "schema_version": 2,
+ "total": 79,
+ "counts": {
+  "hackathons": 38,
+  "scholarships": 7,
+  "exams": 21,
+  "schemes": 3,
+  "internships": 7,
+  "fellowships": 3
+ },
+ "sources": {
+  "devpost": {
+   "status": "ok",
+   "items": 27,
+   "label": "Devpost"
+  },
+  "devfolio": {
+   "status": "ok",
+   "items": 10,
+   "label": "Devfolio"
+  },
+  "nta": {
+   "status": "ok",
+   "items": 18,
+   "label": "National Testing Agency"
+  },
+  "cbse": {
+   "status": "ok",
+   "items": 4,
+   "label": "CBSE"
+  },
+  "pib": {
+   "status": "ok",
+   "items": 0,
+   "label": "PIB, Government of India"
+  },
+  "programs": {
+   "status": "ok",
+   "items": 20,
+   "label": "Verified official programme pages"
+  }
+ },
+ "honesty_note": "Only items parsed from the listed official sources this run, plus the curated official programme registry whose pages are link-checked. A failing source contributes nothing rather than fake data. 'Dates on portal' items have no machine-readable deadline; verify on the official page."
+}

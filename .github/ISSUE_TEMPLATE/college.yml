@@ -1,0 +1,57 @@
+name: College pilot request
+description: Request a DastakDe college board or pilot for your placement cell.
+title: "[College] "
+labels: ["college"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A DastakDe college board gives your students one verified opportunity feed and a deadline
+        calendar. The college sees aggregate interest only — never student identities.
+        **Do not include personal phone numbers or student data in this public issue.**
+  - type: input
+    id: college
+    attributes:
+      label: College name
+      placeholder: "Example: Government Engineering College, Examplepur"
+    validations:
+      required: true
+  - type: input
+    id: site
+    attributes:
+      label: Official college URL
+      placeholder: "https://"
+    validations:
+      required: true
+  - type: input
+    id: department
+    attributes:
+      label: Placement / student-affairs contact
+      description: A role-based email or the placement-cell GitHub handle.
+      placeholder: "placements@example.ac.in"
+    validations:
+      required: true
+  - type: textarea
+    id: departments
+    attributes:
+      label: Departments and years to cover
+      placeholder: "CSE, IT and ECE; second and final year"
+    validations:
+      required: true
+  - type: dropdown
+    id: plan
+    attributes:
+      label: What would you like to start with?
+      options:
+        - 30-day pilot
+        - Annual plan (₹25,000)
+        - Charter annual plan (₹10,000 for the first 25 colleges)
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy boundary
+      options:
+        - label: The college will not receive individual student data or application activity.
+          required: true

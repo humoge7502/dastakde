@@ -1,0 +1,84 @@
+name: Listing request
+description: Ask DastakDe to verify and list an opportunity.
+title: "[Listing] "
+labels: ["listing"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for listing with DastakDe. We verify every opportunity against an official page.
+        **Do not include personal phone numbers or student data in this public issue.**
+        A role-based email (e.g. placements@college.ac.in) is fine.
+  - type: input
+    id: title
+    attributes:
+      label: Opportunity title
+      placeholder: "Example: Smart India Hackathon 2027 — campus edition"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+      description: The page on your own domain where students can read the rules and apply.
+      placeholder: "https://"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Hackathon
+        - Internship
+        - Scholarship
+        - Fellowship
+        - Entrance exam
+        - Government scheme
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline (IST)
+      description: Use YYYY-MM-DD. If applications are rolling, write "rolling".
+      placeholder: "2027-01-31 or rolling"
+    validations:
+      required: true
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: Who can apply
+      description: Course, year, age, nationality or other real constraints. Keep it short.
+    validations:
+      required: true
+  - type: dropdown
+    id: org_type
+    attributes:
+      label: Organiser type
+      description: Public, non-profit and student-club listings are free. Commercial listings are ₹499 after verification.
+      options:
+        - Government / public body (free)
+        - Non-profit or student club (free)
+        - Company / edtech / commercial organiser (₹499)
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Role-based contact
+      description: This appears in a public issue. Use an organisational address, not a personal one.
+      placeholder: "placements@example.ac.in"
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Confirmation
+      options:
+        - label: Students are not asked to pay to apply or to be considered.
+          required: true
+        - label: The official page above is live and contains the rules and deadline.
+          required: true
+        - label: I understand that paying for verification never changes organic ranking.
+          required: true

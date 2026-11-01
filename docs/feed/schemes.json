@@ -1,0 +1,90 @@
+{
+ "generated_at": "2026-11-01T16:51:12Z",
+ "items": [
+  {
+   "id": "46a242ea6714ac20",
+   "title": "BARC OCES and DGFS Graduate Training",
+   "org": "Bhabha Atomic Research Centre",
+   "category": "schemes",
+   "url": "https://www.barc.gov.in/careers/training.html",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "BARC's graduate training and fellowship pathways for engineering, science and health students. Confirm the current cycle, disciplines and eligibility on the official page.",
+   "source": "programs",
+   "source_label": "Official programme page — Bhabha Atomic Research Centre",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "BARC",
+    "graduate training",
+    "stipend",
+    "government"
+   ],
+   "verification": {
+    "domain": "www.barc.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "ce7d3b6c949bd221",
+   "title": "Free Coaching for SC, OBC and PM CARES Children",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "schemes",
+   "url": "https://socialjustice.gov.in/schemes/30",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Free coaching scheme for eligible SC, OBC and PM CARES children preparing for competitive examinations. Check available courses and the current intake on the official page.",
+   "source": "programs",
+   "source_label": "Official programme page — Department of Social Justice & Empowerment",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "free coaching",
+    "competitive exams",
+    "government"
+   ],
+   "verification": {
+    "domain": "socialjustice.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "e7c06ceea070fb06",
+   "title": "National Apprenticeship Promotion Scheme",
+   "org": "Apprenticeship India, Government of India",
+   "category": "schemes",
+   "url": "https://www.apprenticeshipindia.gov.in/",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Official portal for apprenticeship opportunities and the National Apprenticeship Promotion Scheme. Search live openings, eligibility and employer details on the portal.",
+   "source": "programs",
+   "source_label": "Official programme page — Apprenticeship India, Government of India",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "apprenticeship",
+    "NSQF",
+    "government"
+   ],
+   "verification": {
+    "domain": "www.apprenticeshipindia.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  }
+ ]
+}

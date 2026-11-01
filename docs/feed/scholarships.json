@@ -1,0 +1,198 @@
+{
+ "generated_at": "2026-11-01T16:51:12Z",
+ "items": [
+  {
+   "id": "0aa3e76c92f09e72",
+   "title": "Revised National Scholarship Portal (NSP) Framework for Academic Year 2026-27",
+   "org": "Central Board of Secondary Education",
+   "category": "scholarships",
+   "url": "https://www.cbse.gov.in/cbsenew/documents/PUBLIC_NOTICE_Rev_NSP_22092026.pdf",
+   "deadline": null,
+   "deadline_status": "notice",
+   "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
+   "source": "cbse",
+   "source_label": "CBSE — official circulars",
+   "fetched_at": "2026-11-01T16:51:10Z",
+   "published_at": "2026-09-22",
+   "tags": [
+    "CBSE",
+    "official notice"
+   ],
+   "verification": {
+    "domain": "www.cbse.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "notice"
+   }
+  },
+  {
+   "id": "23c57ef03582ab67",
+   "title": "Google Scholarship Programmes",
+   "org": "Google",
+   "category": "scholarships",
+   "url": "https://buildyourfuture.withgoogle.com/scholarships",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Google's scholarship programmes for students in computer science and related fields. Specific programmes, eligibility and application cycles vary; confirm on the official page.",
+   "source": "programs",
+   "source_label": "Official programme page — Google",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "computer science",
+    "Google",
+    "global"
+   ],
+   "verification": {
+    "domain": "buildyourfuture.withgoogle.com",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "d01733cefea93703",
+   "title": "National Overseas Scholarship for SC Candidates",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/28",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Support for eligible Scheduled Caste candidates pursuing selected overseas postgraduate courses. Check eligibility, income limits and the current application window on the official page.",
+   "source": "programs",
+   "source_label": "Official programme page — Department of Social Justice & Empowerment",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "SC students",
+    "overseas",
+    "government"
+   ],
+   "verification": {
+    "domain": "socialjustice.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "9a134995dfd6146b",
+   "title": "Post-Matric Scholarship for SC Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/25",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Financial support for Scheduled Caste students pursuing studies after Class 10. Check the current eligibility, income limits and application window on the official scheme page.",
+   "source": "programs",
+   "source_label": "Official programme page — Department of Social Justice & Empowerment",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "SC students",
+    "post-matric",
+    "government"
+   ],
+   "verification": {
+    "domain": "socialjustice.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "e9aa8ac48d1ac84b",
+   "title": "Pre-Matric Scholarship for SC Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/23",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "School-level scholarship support for Scheduled Caste students. Check the classes covered, income limits and application window on the official scheme page.",
+   "source": "programs",
+   "source_label": "Official programme page — Department of Social Justice & Empowerment",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "SC students",
+    "pre-matric",
+    "government"
+   ],
+   "verification": {
+    "domain": "socialjustice.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "897dd712c3f146d3",
+   "title": "Scholarship for PM CARES Children",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/102",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Scholarship support for eligible children under the PM CARES for Children scheme. Check the current scheme details and eligibility on the official page.",
+   "source": "programs",
+   "source_label": "Official programme page — Department of Social Justice & Empowerment",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "PM CARES",
+    "government",
+    "school"
+   ],
+   "verification": {
+    "domain": "socialjustice.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "9f5f91138d48c610",
+   "title": "Top Class Education Scholarship for SC Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "scholarships",
+   "url": "https://socialjustice.gov.in/schemes/27",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Central Sector scholarship supporting Scheduled Caste students at notified top-class institutions. Confirm eligible institutions and the live application window on the official page.",
+   "source": "programs",
+   "source_label": "Official programme page — Department of Social Justice & Empowerment",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "SC students",
+    "top class education",
+    "government"
+   ],
+   "verification": {
+    "domain": "socialjustice.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  }
+ ]
+}

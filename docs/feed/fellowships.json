@@ -1,0 +1,92 @@
+{
+ "generated_at": "2026-11-01T16:51:12Z",
+ "items": [
+  {
+   "id": "62dbc3cb5bb96ebe",
+   "title": "DAE Doctoral Fellowship Scheme",
+   "org": "Bhabha Atomic Research Centre",
+   "category": "fellowships",
+   "url": "https://www.barc.gov.in/careers/ddfs.html",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Doctoral fellowship scheme of the Department of Atomic Energy, administered through BARC. Check the current research areas, eligibility and application cycle on the official page.",
+   "source": "programs",
+   "source_label": "Official programme page — Bhabha Atomic Research Centre",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "PhD",
+    "BARC",
+    "Department of Atomic Energy",
+    "fellowship"
+   ],
+   "verification": {
+    "domain": "www.barc.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "c87b105037aa6889",
+   "title": "National Fellowship for OBC Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "fellowships",
+   "url": "https://socialjustice.gov.in/schemes/7",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Fellowship support for Other Backward Class students pursuing M.Phil or PhD at recognised universities. Confirm eligibility, tenure and the current application route on the official page.",
+   "source": "programs",
+   "source_label": "Official programme page — Department of Social Justice & Empowerment",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "OBC students",
+    "PhD",
+    "fellowship",
+    "government"
+   ],
+   "verification": {
+    "domain": "socialjustice.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "c0be3341cdd51fd9",
+   "title": "National Fellowship for Scheduled Caste Students",
+   "org": "Department of Social Justice & Empowerment",
+   "category": "fellowships",
+   "url": "https://socialjustice.gov.in/schemes/29",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Fellowship support for Scheduled Caste students pursuing M.Phil or PhD at recognised universities. Check current eligibility, tenure and the application route on the official page.",
+   "source": "programs",
+   "source_label": "Official programme page — Department of Social Justice & Empowerment",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "SC students",
+    "PhD",
+    "fellowship",
+    "government"
+   ],
+   "verification": {
+    "domain": "socialjustice.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  }
+ ]
+}

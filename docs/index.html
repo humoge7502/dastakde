@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DastakDe — Verified opportunities. Right on time.</title>
+<meta name="description" content="DastakDe brings verified hackathons, internships, scholarships, fellowships, exams and government schemes into one free feed — with real deadlines and reminders. Every item links to its official source.">
+<meta name="theme-color" content="#191033">
+<meta property="og:title" content="DastakDe — Mauka dastak de raha hai.">
+<meta property="og:description" content="Verified student opportunities with real deadlines. Free, six categories, official sources only.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://humoge7502.github.io/dastakde/">
+<meta property="og:image" content="https://humoge7502.github.io/dastakde/media/og.png">
+<link rel="icon" href="favicon.png" type="image/png">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="./">
+      <img src="media/mark-512.png" alt="DastakDe mark">
+      DastakDe
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="#feed">Live feed</a>
+      <a href="#how">How it works</a>
+      <a href="#demo">Demo</a>
+      <a href="organizers.html">For organizers</a>
+      <a href="colleges.html">For colleges</a>
+    </nav>
+  </div>
+</header>
+
+<header class="hero">
+  <div class="wrap">
+    <div>
+      <div class="tag">Mauka dastak de raha hai.</div>
+      <h1>Every opportunity.<br>One knock away.</h1>
+      <p class="sub">Verified hackathons, internships, scholarships, fellowships, exams and
+      government schemes — <b>one free feed</b>, real deadlines, reminders before it is too late.
+      Every item links to its official source.</p>
+      <div class="badge-row">
+        <span class="pill">✅ Official sources only</span>
+        <span class="pill">⏰ Deadline reminders</span>
+        <span class="pill">🔒 No account, no data sale</span>
+      </div>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="#feed">Explore the live feed</a>
+        <a class="btn btn-ghost" href="organizers.html">List an opportunity</a>
+      </div>
+    </div>
+    <div class="hero-mark">
+      <img src="media/mark-512.png" alt="DastakDe app mark — a white D with an amber knocker on violet">
+    </div>
+  </div>
+</header>
+
+<section id="feed">
+  <div class="wrap">
+    <div class="eyebrow">Live, not a demo</div>
+    <h2>What is open right now</h2>
+    <p class="lede">This page reads the same public feed the app reads. It is regenerated from the
+    sources below every two hours. If a source is down, it contributes nothing — we show less,
+    never filler.</p>
+    <div class="feedstat" id="stat" aria-live="polite">Loading the live feed…</div>
+    <div class="grid" id="cats"></div>
+    <p style="margin-top:16px;font-size:13px;color:var(--muted)">
+      Raw JSON: <a href="feed/all.json">all.json</a> ·
+      <a href="feed/index.json">index.json</a> ·
+      <a href="feed/deadlines.json">deadlines.json</a>
+    </p>
+  </div>
+</section>
+
+<section id="how">
+  <div class="wrap">
+    <div class="eyebrow">Trust is the product</div>
+    <h2>How an opportunity gets in</h2>
+    <p class="lede">No scraped mystery meat, no pay-to-apply rows. The pipeline is small enough to
+    audit, and every item carries the evidence behind it.</p>
+    <ol class="steps">
+      <li><b>Collect from official sources.</b> Devpost API, Devfolio listings, NTA notices, CBSE
+      circulars, PIB education releases and registered public programmes.</li>
+      <li><b>Verify.</b> Domain allowlist, deadline sanity in IST, source URL, and a scam filter for
+      registration-fee and pay-to-apply patterns.</li>
+      <li><b>Exclude, don't guess.</b> Administrative notices, results, answer keys and expired
+      items are dropped. A flagged item never reaches the feed.</li>
+      <li><b>Show the deadline honestly.</b> Fixed dates get a countdown; rolling and
+      "check the portal" programmes are labelled as such, not given an invented date.</li>
+      <li><b>Remind the student.</b> Local notifications at D-7, D-3, D-1 and D0 for saved items;
+      a daily digest at 09:00 for new matches.</li>
+    </ol>
+  </div>
+</section>
+
+<section id="demo">
+  <div class="wrap">
+    <div class="eyebrow">30-second tour</div>
+    <h2>See the whole app before you install</h2>
+    <p class="lede">The demo shows the real feed and the guided tour: browse, filter, save,
+    catch deadlines and set reminders.</p>
+    <div class="video">
+      <video controls playsinline preload="none" poster="media/demo-poster.jpg">
+        <source src="media/demo.mp4" type="video/mp4">
+        Your browser cannot play this video.
+      </video>
+    </div>
+  </div>
+</section>
+
+<section id="business">
+  <div class="wrap">
+    <div class="eyebrow">A business that keeps the core free</div>
+    <h2>Students never pay for opportunities</h2>
+    <p class="lede">The feed, deadlines and reminders stay free forever. Organisers pay for
+    verified distribution, colleges pay for a campus board, and sponsorships are labelled.
+    Public notices and student clubs are always free to list.</p>
+    <div class="grid">
+      <div class="card">
+        <div class="icon">🎓</div>
+        <h3>Students — ₹0</h3>
+        <p>Full verified feed, countdowns, reminders and shortlist. No account required; data stays
+        on the device.</p>
+      </div>
+      <div class="card">
+        <div class="icon">🤝</div>
+        <h3>Organisers — ₹499 / listing</h3>
+        <p>Human verification, deadline reminders and a verified evidence block. Rank is never for
+        sale.</p>
+      </div>
+      <div class="card">
+        <div class="icon">🏫</div>
+        <h3>Colleges — ₹25,000 / year</h3>
+        <p>A branded opportunity board for the placement cell, bulk calendar and aggregate-only
+        reporting. Charter price ₹10,000 for the first 25 colleges.</p>
+      </div>
+    </div>
+    <p style="margin-top:20px;font-size:14px">
+      <a href="organizers.html">Organiser pricing</a> ·
+      <a href="colleges.html">College plan</a> ·
+      <a href="https://github.com/humoge7502/dastakde/blob/main/BUSINESS_MODEL.md">Full business model</a>
+    </p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 DastakDe · Verified opportunities. Right on time.</span>
+    <a href="privacy.html">Privacy</a>
+    <a href="https://github.com/humoge7502/dastakde">GitHub</a>
+    <a href="https://github.com/humoge7502/dastakde/issues/new">Report an issue</a>
+    <span class="spacer">Official sources only. If a source is down, we show less — not fake data.</span>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var CATS = {
+    hackathons: "Hackathons",
+    internships: "Internships",
+    scholarships: "Scholarships",
+    fellowships: "Fellowships",
+    exams: "Exams",
+    schemes: "Schemes"
+  };
+  var stat = document.getElementById("stat");
+  var cats = document.getElementById("cats");
+
+  fetch("feed/index.json", { cache: "no-store" })
+    .then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    })
+    .then(function (d) {
+      var when = d.generated_at ? new Date(d.generated_at) : null;
+      var whenText = when && !isNaN(when) ? when.toLocaleString("en-IN", {
+        day: "numeric", month: "short", hour: "2-digit", minute: "2-digit"
+      }) : "recently";
+      var sources = Object.keys(d.sources || {}).map(function (k) {
+        var ok = d.sources[k] === "ok";
+        return '<span class="' + (ok ? "srcok" : "srcdown") + '">' +
+          (ok ? "● " : "○ ") + k + "</span>";
+      }).join(" ");
+      stat.innerHTML =
+        "<div><b>" + (d.total || 0) + "</b>verified live</div>" +
+        "<div><b>" + whenText + "</b>last refresh (IST)</div>" +
+        '<div style="flex:1;min-width:200px"><b style="font-size:14px;color:var(--ink)">Sources</b>' + sources + "</div>";
+
+      var counts = d.counts || {};
+      cats.innerHTML = Object.keys(CATS).map(function (k) {
+        return '<div class="card"><div class="cat-count">' + (counts[k] || 0) + "</div>" +
+          "<h3>" + CATS[k] + "</h3><p>verified and live</p></div>";
+      }).join("");
+    })
+    .catch(function () {
+      stat.textContent = "The feed is temporarily unavailable. The app retries automatically; nothing is shown that we could not verify.";
+    });
+})();
+</script>
+</body>
+</html>

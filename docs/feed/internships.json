@@ -1,0 +1,207 @@
+{
+ "generated_at": "2026-11-01T16:51:12Z",
+ "items": [
+  {
+   "id": "93b0886256916603",
+   "title": "AICTE National Internship Portal",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Internships from ministries, public sector units, urban local bodies and industry for AICTE, UGC and IGNOU students. Use the portal to check live roles, stipend and deadlines.",
+   "source": "programs",
+   "source_label": "Official programme page — All India Council for Technical Education",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "AICTE",
+    "UGC",
+    "IGNOU",
+    "government internships"
+   ],
+   "verification": {
+    "domain": "internship.aicte-india.org",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "639249934962ca0d",
+   "title": "C-DAC Internship Dashboard",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/dashboards/cdac",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "C-DAC internships listed through AICTE's National Internship Portal, covering computing and electronics opportunities. Confirm open roles, eligibility and deadlines on the portal.",
+   "source": "programs",
+   "source_label": "Official programme page — All India Council for Technical Education",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "C-DAC",
+    "computing",
+    "electronics",
+    "government internships"
+   ],
+   "verification": {
+    "domain": "internship.aicte-india.org",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "a0a195b43fad9c18",
+   "title": "Google Summer of Code",
+   "org": "Google",
+   "category": "internships",
+   "url": "https://summerofcode.withgoogle.com/",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Global open-source contribution programme where selected participants work with mentoring organisations. Eligibility and the annual application window vary; confirm current dates on the official site.",
+   "source": "programs",
+   "source_label": "Official programme page — Google",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "open source",
+    "Google",
+    "global",
+    "stipend"
+   ],
+   "verification": {
+    "domain": "summerofcode.withgoogle.com",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "11aa0c755f46f1b9",
+   "title": "Indian Army Internship Dashboard",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/dashboards/indianarmy",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Indian Army internship opportunities listed through AICTE's National Internship Portal, including cyber defence and engineering roles. Verify open roles and eligibility on the portal.",
+   "source": "programs",
+   "source_label": "Official programme page — All India Council for Technical Education",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "Indian Army",
+    "cyber defence",
+    "engineering",
+    "government internships"
+   ],
+   "verification": {
+    "domain": "internship.aicte-india.org",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "bc05f7ef1b955a44",
+   "title": "NHAI Internship Dashboard",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/dashboards/nhai",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "NHAI internships in highways and infrastructure, listed through AICTE's National Internship Portal. Check current roles, locations, eligibility and deadlines on the portal.",
+   "source": "programs",
+   "source_label": "Official programme page — All India Council for Technical Education",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "NHAI",
+    "highways",
+    "infrastructure",
+    "government internships"
+   ],
+   "verification": {
+    "domain": "internship.aicte-india.org",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "99960ec9b8f3411d",
+   "title": "PM Internship Scheme",
+   "org": "Ministry of Corporate Affairs",
+   "category": "internships",
+   "url": "https://pminternship.mca.gov.in/",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "Government internship scheme offering short-term internships with participating companies. Registration, eligibility and current opportunities are published on the official portal.",
+   "source": "programs",
+   "source_label": "Official programme page — Ministry of Corporate Affairs",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "PM Internship",
+    "government",
+    "companies"
+   ],
+   "verification": {
+    "domain": "pminternship.mca.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  },
+  {
+   "id": "c4af1a6464685113",
+   "title": "TULIP Urban Learning Internship",
+   "org": "All India Council for Technical Education",
+   "category": "internships",
+   "url": "https://internship.aicte-india.org/dashboards/tulip",
+   "deadline": null,
+   "deadline_status": "check_official",
+   "description": "The Urban Learning Internship Programme places students with urban local bodies and smart-city projects under the Ministry of Housing and Urban Affairs. Check live roles on the portal.",
+   "source": "programs",
+   "source_label": "Official programme page — All India Council for Technical Education",
+   "fetched_at": "2026-11-01T16:51:12Z",
+   "published_at": null,
+   "tags": [
+    "TULIP",
+    "smart cities",
+    "urban planning",
+    "government internships"
+   ],
+   "verification": {
+    "domain": "internship.aicte-india.org",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "check_official",
+    "checked_at": "2026-11-01",
+    "official_program": true
+   }
+  }
+ ]
+}
