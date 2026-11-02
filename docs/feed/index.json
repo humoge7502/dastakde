@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-02T09:26:10Z",
+ "generated_at": "2026-11-02T20:20:36Z",
  "schema_version": 2,
- "total": 79,
+ "total": 80,
  "counts": {
-  "hackathons": 38,
+  "hackathons": 37,
   "scholarships": 7,
-  "exams": 21,
+  "exams": 23,
   "schemes": 3,
   "internships": 7,
   "fellowships": 3
@@ -18,12 +18,12 @@
   },
   "devfolio": {
    "status": "ok",
-   "items": 10,
+   "items": 9,
    "label": "Devfolio"
   },
   "nta": {
    "status": "ok",
-   "items": 18,
+   "items": 19,
    "label": "National Testing Agency"
   },
   "cbse": {
@@ -33,7 +33,7 @@
   },
   "pib": {
    "status": "ok",
-   "items": 0,
+   "items": 1,
    "label": "PIB, Government of India"
   },
   "programs": {
