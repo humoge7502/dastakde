@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T11:53:37Z",
+ "generated_at": "2026-11-03T19:28:38Z",
  "items": [
   {
    "id": "0aa3e76c92f09e72",
@@ -12,7 +12,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-03T11:53:35Z",
+   "fetched_at": "2026-11-03T19:28:36Z",
    "published_at": "2026-09-22",
    "tags": [
     "CBSE",
@@ -37,7 +37,7 @@
    "description": "Google's scholarship programmes for students in computer science and related fields. Specific programmes, eligibility and application cycles vary; confirm on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Google",
-   "fetched_at": "2026-11-03T11:53:37Z",
+   "fetched_at": "2026-11-03T19:28:38Z",
    "published_at": null,
    "tags": [
     "computer science",
@@ -65,7 +65,7 @@
    "description": "Support for eligible Scheduled Caste candidates pursuing selected overseas postgraduate courses. Check eligibility, income limits and the current application window on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-03T11:53:37Z",
+   "fetched_at": "2026-11-03T19:28:38Z",
    "published_at": null,
    "tags": [
     "SC students",
@@ -93,7 +93,7 @@
    "description": "Financial support for Scheduled Caste students pursuing studies after Class 10. Check the current eligibility, income limits and application window on the official scheme page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-03T11:53:37Z",
+   "fetched_at": "2026-11-03T19:28:38Z",
    "published_at": null,
    "tags": [
     "SC students",
@@ -121,7 +121,7 @@
    "description": "School-level scholarship support for Scheduled Caste students. Check the classes covered, income limits and application window on the official scheme page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-03T11:53:37Z",
+   "fetched_at": "2026-11-03T19:28:38Z",
    "published_at": null,
    "tags": [
     "SC students",
@@ -149,7 +149,7 @@
    "description": "Scholarship support for eligible children under the PM CARES for Children scheme. Check the current scheme details and eligibility on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-03T11:53:37Z",
+   "fetched_at": "2026-11-03T19:28:38Z",
    "published_at": null,
    "tags": [
     "PM CARES",
@@ -177,7 +177,7 @@
    "description": "Central Sector scholarship supporting Scheduled Caste students at notified top-class institutions. Confirm eligible institutions and the live application window on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-03T11:53:37Z",
+   "fetched_at": "2026-11-03T19:28:38Z",
    "published_at": null,
    "tags": [
     "SC students",
