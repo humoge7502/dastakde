@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-03T19:28:38Z",
+ "generated_at": "2026-11-04T00:36:09Z",
  "schema_version": 2,
- "total": 80,
+ "total": 79,
  "counts": {
   "hackathons": 37,
   "scholarships": 7,
-  "exams": 23,
+  "exams": 22,
   "schemes": 3,
   "internships": 7,
   "fellowships": 3
@@ -23,7 +23,7 @@
   },
   "nta": {
    "status": "ok",
-   "items": 20,
+   "items": 19,
    "label": "National Testing Agency"
   },
   "cbse": {
