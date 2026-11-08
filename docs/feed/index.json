@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-08T08:56:38Z",
+ "generated_at": "2026-11-08T16:38:52Z",
  "schema_version": 2,
- "total": 85,
+ "total": 87,
  "counts": {
   "hackathons": 39,
   "scholarships": 7,
-  "exams": 26,
+  "exams": 28,
   "schemes": 3,
   "internships": 7,
   "fellowships": 3
@@ -28,7 +28,7 @@
   },
   "cbse": {
    "status": "ok",
-   "items": 4,
+   "items": 6,
    "label": "CBSE"
   },
   "pib": {
