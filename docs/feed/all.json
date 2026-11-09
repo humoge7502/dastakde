@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T21:59:39Z",
+ "generated_at": "2026-11-09T01:42:52Z",
  "schema_version": 2,
  "items": [
   {
@@ -13,7 +13,7 @@
    "description": "Devpost hackathon listed on Devpost. Prize pool: $ 2,500. Themes: AR/VR, Machine Learning/AI, Design.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Ar/Vr",
@@ -36,10 +36,10 @@
    "url": "https://genarrative-clash.devfolio.co/",
    "deadline": "2026-11-10",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-11-21 to 2026-11-21. 1302 participants registered. Themes: Design, AI.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-11-21 to 2026-11-21. 1303 participants registered. Themes: Design, AI.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "Design",
@@ -62,10 +62,10 @@
    "url": "https://haxfinity.devfolio.co/",
    "deadline": "2026-11-10",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-12-12 to 2026-12-13. 531 participants registered. Themes: FinTech, AI, HealthTech.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-12-12 to 2026-12-13. 533 participants registered. Themes: FinTech, AI, HealthTech.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "FinTech",
@@ -92,7 +92,7 @@
    "description": "Echelon institute of technology hackathon listed on Devpost. Prize pool: ₹ 200,000. Themes: Beginner Friendly, Blockchain, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -118,7 +118,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-11-20 to 2026-11-21. 490 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -143,7 +143,7 @@
    "description": "PayPal hackathon listed on Devpost. Prize pool: $ 67,500. Themes: Low/No Code, Machine Learning/AI, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Low/No Code",
@@ -166,10 +166,10 @@
    "url": "https://devnexus2.devfolio.co/",
    "deadline": "2026-11-14",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-11-28 to 2026-11-29. 1804 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-11-28 to 2026-11-29. 1805 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -194,7 +194,7 @@
    "description": "STEMise hackathon listed on Devpost. Themes: Beginner Friendly, Low/No Code, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -220,7 +220,7 @@
    "description": "Software Engineering Club (DEV) hackathon listed on Devpost. Themes: Communication, Cybersecurity, Machine Learning/AI.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Communication",
@@ -246,7 +246,7 @@
    "description": "STEMergent hackathon listed on Devpost. Themes: Low/No Code, Machine Learning/AI, Social Good.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Low/No Code",
@@ -272,7 +272,7 @@
    "description": "UGREEN hackathon listed on Devpost. Prize pool: $ 46,000. Themes: Lifehacks, Machine Learning/AI, Productivity.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Lifehacks",
@@ -281,6 +281,31 @@
    ],
    "verification": {
     "domain": "ugreenhackathon.devpost.com",
+    "source_verified": true,
+    "deadline_future": true,
+    "flags": [],
+    "deadline_status": "fixed"
+   }
+  },
+  {
+   "id": "30e6d3ac26dbf4c3",
+   "title": "Green Shift Hacks",
+   "org": "HackathonForEveryone",
+   "category": "hackathons",
+   "url": "https://green-shift-hacks.devpost.com/",
+   "deadline": "2026-11-17",
+   "deadline_status": "fixed",
+   "description": "HackathonForEveryone hackathon listed on Devpost. Prize pool: $ 125. Themes: Beginner Friendly, Social Good.",
+   "source": "devpost",
+   "source_label": "Devpost API — open hackathons",
+   "fetched_at": "2026-11-09T01:42:46Z",
+   "published_at": null,
+   "tags": [
+    "Beginner Friendly",
+    "Social Good"
+   ],
+   "verification": {
+    "domain": "green-shift-hacks.devpost.com",
     "source_verified": true,
     "deadline_future": true,
     "flags": [],
@@ -298,7 +323,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-11-20 to 2026-11-22. 482 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -323,7 +348,7 @@
    "description": "Meta hackathon listed on Devpost. Prize pool: $ 1,000,000. Themes: AR/VR, Machine Learning/AI, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Ar/Vr",
@@ -349,7 +374,7 @@
    "description": "AccessEDnpo hackathon listed on Devpost. Prize pool: $ 225. Themes: Beginner Friendly, Education, Social Good.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -375,7 +400,7 @@
    "description": "Dakar Bitcoin Days hackathon listed on Devpost. Prize pool: $ 900. Themes: Blockchain, Fintech, Machine Learning/AI.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Blockchain",
@@ -401,7 +426,7 @@
    "description": "Hack4TodayOrg hackathon listed on Devpost. Prize pool: $ 300. Themes: Beginner Friendly, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -426,7 +451,7 @@
    "description": "STEM2Connect hackathon listed on Devpost. Themes: Beginner Friendly, Education, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -452,7 +477,7 @@
    "description": "SafeSpace hackathon listed on Devpost. Prize pool: $ 280. Themes: Beginner Friendly, Cybersecurity, Social Good.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -478,7 +503,7 @@
    "description": "HackathonForEveryone hackathon listed on Devpost. Themes: Beginner Friendly, Quantum.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -503,7 +528,7 @@
    "description": "Yasir Insights hackathon listed on Devpost. Themes: Education, Machine Learning/AI, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Education",
@@ -529,7 +554,7 @@
    "description": "Kiro hackathon listed on Devpost. Prize pool: $ 100,000. Themes: Beginner Friendly, Machine Learning/AI, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -555,7 +580,7 @@
    "description": "Hackathon with open registration on Devfolio (online). Event dates: 2026-12-11 to 2026-12-13. 1823 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -580,7 +605,7 @@
    "description": "AWS hackathon listed on Devpost. Prize pool: $ 64,000. Themes: Machine Learning/AI, Productivity, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Machine Learning/Ai",
@@ -606,7 +631,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-30 to 2027-01-31. 91 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -631,7 +656,7 @@
    "description": "QNX hackathon listed on Devpost. Prize pool: $ 50,000. Themes: IoT, Machine Learning/AI, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Iot",
@@ -657,7 +682,7 @@
    "description": "HETIC hackathon listed on Devpost. Prize pool: € 1,000. Themes: Low/No Code, Machine Learning/AI, Productivity.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Low/No Code",
@@ -683,7 +708,7 @@
    "description": "Arbiter hackathon listed on Devpost. Prize pool: $ 7,800. Themes: Beginner Friendly, Machine Learning/AI, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -709,7 +734,7 @@
    "description": "Atlassian hackathon listed on Devpost. Prize pool: $ 120,000. Themes: Machine Learning/AI, Enterprise, Productivity.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Machine Learning/Ai",
@@ -735,7 +760,7 @@
    "description": "Shail & Sharaf hackathon listed on Devpost. Prize pool: $CAD 1,050. Themes: Beginner Friendly, IoT, Machine Learning/AI.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -758,10 +783,10 @@
    "url": "https://hacksprint-3.devfolio.co/",
    "deadline": "2026-12-28",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-29 to 2027-01-30. 24 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-29 to 2027-01-30. 25 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -786,7 +811,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-29 to 2027-01-30. 40 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -811,7 +836,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-22 to 2027-01-24. 975 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -836,7 +861,7 @@
    "description": "Binnovative hackathon listed on Devpost. Themes: Music/Art, Beginner Friendly, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Music/Art",
@@ -862,7 +887,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-22 to 2027-01-24. 198 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:47Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -887,7 +912,7 @@
    "description": "Student Organization hackathon listed on Devpost. Themes: DevOps, Machine Learning/AI, Robotic Process Automation.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Devops",
@@ -913,7 +938,7 @@
    "description": "nill hackathon listed on Devpost. Themes: Education, Machine Learning/AI, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Education",
@@ -939,7 +964,7 @@
    "description": "Devin hackathon listed on Devpost. Prize pool: $ 480. Themes: Machine Learning/AI, Open Ended, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
+   "fetched_at": "2026-11-09T01:42:46Z",
    "published_at": null,
    "tags": [
     "Machine Learning/Ai",
@@ -948,32 +973,6 @@
    ],
    "verification": {
     "domain": "agentic-hackathon.devpost.com",
-    "source_verified": true,
-    "deadline_future": true,
-    "flags": [],
-    "deadline_status": "fixed"
-   }
-  },
-  {
-   "id": "4d9fa5977c37626b",
-   "title": "EthnoHack",
-   "org": "ETHCSTWIN",
-   "category": "hackathons",
-   "url": "https://ethnohack2026.devpost.com/",
-   "deadline": "2027-11-02",
-   "deadline_status": "fixed",
-   "description": "ETHCSTWIN hackathon listed on Devpost. Prize pool: € 8,000. Themes: Databases, Health, Machine Learning/AI.",
-   "source": "devpost",
-   "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-08T21:59:33Z",
-   "published_at": null,
-   "tags": [
-    "Databases",
-    "Health",
-    "Machine Learning/Ai"
-   ],
-   "verification": {
-    "domain": "ethnohack2026.devpost.com",
     "source_verified": true,
     "deadline_future": true,
     "flags": [],
@@ -991,7 +990,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-11-07",
    "tags": [
     "NTA",
@@ -1017,7 +1016,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-11-06",
    "tags": [
     "NTA",
@@ -1043,7 +1042,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:50Z",
    "published_at": "2026-11-06",
    "tags": [
     "CBSE",
@@ -1068,7 +1067,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-11-06",
    "tags": [
     "NTA",
@@ -1094,7 +1093,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:50Z",
    "published_at": "2026-11-06",
    "tags": [
     "CBSE",
@@ -1119,7 +1118,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-11-05",
    "tags": [
     "NTA",
@@ -1145,7 +1144,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-11-03",
    "tags": [
     "NTA",
@@ -1171,7 +1170,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-11-02",
    "tags": [
     "NTA",
@@ -1197,7 +1196,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-11-01",
    "tags": [
     "NTA",
@@ -1223,7 +1222,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-31",
    "tags": [
     "NTA",
@@ -1249,7 +1248,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-30",
    "tags": [
     "NTA",
@@ -1275,7 +1274,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-28",
    "tags": [
     "NTA",
@@ -1301,7 +1300,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-27",
    "tags": [
     "NTA",
@@ -1327,7 +1326,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-27",
    "tags": [
     "NTA",
@@ -1353,7 +1352,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-26",
    "tags": [
     "NTA",
@@ -1379,7 +1378,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-24",
    "tags": [
     "NTA",
@@ -1405,7 +1404,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-16",
    "tags": [
     "NTA",
@@ -1431,7 +1430,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:50Z",
    "published_at": "2026-10-09",
    "tags": [
     "CBSE",
@@ -1456,7 +1455,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-09",
    "tags": [
     "NTA",
@@ -1482,7 +1481,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-08",
    "tags": [
     "NTA",
@@ -1508,7 +1507,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-08",
    "tags": [
     "NTA",
@@ -1534,7 +1533,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-10-07",
    "tags": [
     "NTA",
@@ -1560,7 +1559,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:50Z",
    "published_at": "2026-10-07",
    "tags": [
     "CBSE",
@@ -1585,7 +1584,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:50Z",
    "published_at": "2026-10-07",
    "tags": [
     "CBSE",
@@ -1610,7 +1609,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-09-24",
    "tags": [
     "NTA",
@@ -1636,7 +1635,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:50Z",
    "published_at": "2026-09-22",
    "tags": [
     "CBSE",
@@ -1661,7 +1660,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-09-17",
    "tags": [
     "NTA",
@@ -1687,7 +1686,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-08T21:59:36Z",
+   "fetched_at": "2026-11-09T01:42:49Z",
    "published_at": "2026-09-16",
    "tags": [
     "NTA",
@@ -1713,7 +1712,7 @@
    "description": "Internships from ministries, public sector units, urban local bodies and industry for AICTE, UGC and IGNOU students. Use the portal to check live roles, stipend and deadlines.",
    "source": "programs",
    "source_label": "Official programme page — All India Council for Technical Education",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "AICTE",
@@ -1742,7 +1741,7 @@
    "description": "BARC's graduate training and fellowship pathways for engineering, science and health students. Confirm the current cycle, disciplines and eligibility on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Bhabha Atomic Research Centre",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "BARC",
@@ -1771,7 +1770,7 @@
    "description": "C-DAC internships listed through AICTE's National Internship Portal, covering computing and electronics opportunities. Confirm open roles, eligibility and deadlines on the portal.",
    "source": "programs",
    "source_label": "Official programme page — All India Council for Technical Education",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "C-DAC",
@@ -1800,7 +1799,7 @@
    "description": "Doctoral fellowship scheme of the Department of Atomic Energy, administered through BARC. Check the current research areas, eligibility and application cycle on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Bhabha Atomic Research Centre",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "PhD",
@@ -1829,7 +1828,7 @@
    "description": "Free coaching scheme for eligible SC, OBC and PM CARES children preparing for competitive examinations. Check available courses and the current intake on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "free coaching",
@@ -1857,7 +1856,7 @@
    "description": "Google's scholarship programmes for students in computer science and related fields. Specific programmes, eligibility and application cycles vary; confirm on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Google",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "computer science",
@@ -1885,7 +1884,7 @@
    "description": "Global open-source contribution programme where selected participants work with mentoring organisations. Eligibility and the annual application window vary; confirm current dates on the official site.",
    "source": "programs",
    "source_label": "Official programme page — Google",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "open source",
@@ -1914,7 +1913,7 @@
    "description": "Indian Army internship opportunities listed through AICTE's National Internship Portal, including cyber defence and engineering roles. Verify open roles and eligibility on the portal.",
    "source": "programs",
    "source_label": "Official programme page — All India Council for Technical Education",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "Indian Army",
@@ -1943,7 +1942,7 @@
    "description": "Official portal for apprenticeship opportunities and the National Apprenticeship Promotion Scheme. Search live openings, eligibility and employer details on the portal.",
    "source": "programs",
    "source_label": "Official programme page — Apprenticeship India, Government of India",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "apprenticeship",
@@ -1971,7 +1970,7 @@
    "description": "Fellowship support for Other Backward Class students pursuing M.Phil or PhD at recognised universities. Confirm eligibility, tenure and the current application route on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "OBC students",
@@ -2000,7 +1999,7 @@
    "description": "Fellowship support for Scheduled Caste students pursuing M.Phil or PhD at recognised universities. Check current eligibility, tenure and the application route on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "SC students",
@@ -2029,7 +2028,7 @@
    "description": "Support for eligible Scheduled Caste candidates pursuing selected overseas postgraduate courses. Check eligibility, income limits and the current application window on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "SC students",
@@ -2057,7 +2056,7 @@
    "description": "NHAI internships in highways and infrastructure, listed through AICTE's National Internship Portal. Check current roles, locations, eligibility and deadlines on the portal.",
    "source": "programs",
    "source_label": "Official programme page — All India Council for Technical Education",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "NHAI",
@@ -2086,7 +2085,7 @@
    "description": "Government internship scheme offering short-term internships with participating companies. Registration, eligibility and current opportunities are published on the official portal.",
    "source": "programs",
    "source_label": "Official programme page — Ministry of Corporate Affairs",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "PM Internship",
@@ -2114,7 +2113,7 @@
    "description": "Financial support for Scheduled Caste students pursuing studies after Class 10. Check the current eligibility, income limits and application window on the official scheme page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "SC students",
@@ -2142,7 +2141,7 @@
    "description": "School-level scholarship support for Scheduled Caste students. Check the classes covered, income limits and application window on the official scheme page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "SC students",
@@ -2170,7 +2169,7 @@
    "description": "Scholarship support for eligible children under the PM CARES for Children scheme. Check the current scheme details and eligibility on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "PM CARES",
@@ -2198,7 +2197,7 @@
    "description": "Nationwide innovation hackathon for students, with problem statements from ministries and organisations. The official portal publishes the current edition, registration route and schedule.",
    "source": "programs",
    "source_label": "Official programme page — Ministry of Education, Government of India",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "SIH",
@@ -2227,7 +2226,7 @@
    "description": "Central Sector scholarship supporting Scheduled Caste students at notified top-class institutions. Confirm eligible institutions and the live application window on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "SC students",
@@ -2255,7 +2254,7 @@
    "description": "The Urban Learning Internship Programme places students with urban local bodies and smart-city projects under the Ministry of Housing and Urban Affairs. Check live roles on the portal.",
    "source": "programs",
    "source_label": "Official programme page — All India Council for Technical Education",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "TULIP",
@@ -2284,7 +2283,7 @@
    "description": "",
    "source": "pib",
    "source_label": "PIB, Government of India — official RSS",
-   "fetched_at": "2026-11-08T21:59:39Z",
+   "fetched_at": "2026-11-09T01:42:52Z",
    "published_at": null,
    "tags": [
     "Government of India",
