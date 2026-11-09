@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T01:42:52Z",
+ "generated_at": "2026-11-09T09:44:32Z",
  "items": [
   {
    "id": "b3e47aff3ae5a553",
@@ -12,7 +12,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-11-07",
    "tags": [
     "NTA",
@@ -38,7 +38,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-11-06",
    "tags": [
     "NTA",
@@ -47,31 +47,6 @@
    ],
    "verification": {
     "domain": "nta.ac.in",
-    "source_verified": true,
-    "deadline_future": null,
-    "flags": [],
-    "deadline_status": "notice"
-   }
-  },
-  {
-   "id": "43dbdbadc2c511d9",
-   "title": "Date Sheet for Class X and Class XII Board Examinations, 2027",
-   "org": "Central Board of Secondary Education",
-   "category": "exams",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX _XII_2027_Main_06112026.pdf",
-   "deadline": null,
-   "deadline_status": "notice",
-   "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
-   "source": "cbse",
-   "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-09T01:42:50Z",
-   "published_at": "2026-11-06",
-   "tags": [
-    "CBSE",
-    "official notice"
-   ],
-   "verification": {
-    "domain": "www.cbse.gov.in",
     "source_verified": true,
     "deadline_future": null,
     "flags": [],
@@ -89,7 +64,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-11-06",
    "tags": [
     "NTA",
@@ -98,31 +73,6 @@
    ],
    "verification": {
     "domain": "nta.ac.in",
-    "source_verified": true,
-    "deadline_future": null,
-    "flags": [],
-    "deadline_status": "notice"
-   }
-  },
-  {
-   "id": "7e6c7616d46972d0",
-   "title": "Result of Class XII Special Examination – West Asia (2026) Available on DigiLocker",
-   "org": "Central Board of Secondary Education",
-   "category": "exams",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/Notification_Result_XII_Special Examination_West Asia_06112026.pdf",
-   "deadline": null,
-   "deadline_status": "notice",
-   "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
-   "source": "cbse",
-   "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-09T01:42:50Z",
-   "published_at": "2026-11-06",
-   "tags": [
-    "CBSE",
-    "official notice"
-   ],
-   "verification": {
-    "domain": "www.cbse.gov.in",
     "source_verified": true,
     "deadline_future": null,
     "flags": [],
@@ -140,7 +90,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-11-05",
    "tags": [
     "NTA",
@@ -166,7 +116,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-11-03",
    "tags": [
     "NTA",
@@ -192,7 +142,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-11-02",
    "tags": [
     "NTA",
@@ -218,7 +168,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-11-01",
    "tags": [
     "NTA",
@@ -244,7 +194,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-31",
    "tags": [
     "NTA",
@@ -270,7 +220,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-30",
    "tags": [
     "NTA",
@@ -296,7 +246,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-28",
    "tags": [
     "NTA",
@@ -322,7 +272,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-27",
    "tags": [
     "NTA",
@@ -348,7 +298,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-27",
    "tags": [
     "NTA",
@@ -374,7 +324,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-26",
    "tags": [
     "NTA",
@@ -400,7 +350,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-24",
    "tags": [
     "NTA",
@@ -426,7 +376,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-16",
    "tags": [
     "NTA",
@@ -452,7 +402,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-09T01:42:50Z",
+   "fetched_at": "2026-11-09T09:44:26Z",
    "published_at": "2026-10-09",
    "tags": [
     "CBSE",
@@ -477,7 +427,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-09",
    "tags": [
     "NTA",
@@ -503,7 +453,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-08",
    "tags": [
     "NTA",
@@ -529,7 +479,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-08",
    "tags": [
     "NTA",
@@ -555,7 +505,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-10-07",
    "tags": [
     "NTA",
@@ -581,7 +531,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-09T01:42:50Z",
+   "fetched_at": "2026-11-09T09:44:26Z",
    "published_at": "2026-10-07",
    "tags": [
     "CBSE",
@@ -606,7 +556,7 @@
    "description": "Official CBSE circular. Open the circular for complete dates, eligibility and instructions.",
    "source": "cbse",
    "source_label": "CBSE — official circulars",
-   "fetched_at": "2026-11-09T01:42:50Z",
+   "fetched_at": "2026-11-09T09:44:26Z",
    "published_at": "2026-10-07",
    "tags": [
     "CBSE",
@@ -631,7 +581,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-09-24",
    "tags": [
     "NTA",
@@ -657,7 +607,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-09-17",
    "tags": [
     "NTA",
@@ -683,7 +633,7 @@
    "description": "Official NTA notice. Open the official notice for dates, eligibility and the application route.",
    "source": "nta",
    "source_label": "NTA — official notice board",
-   "fetched_at": "2026-11-09T01:42:49Z",
+   "fetched_at": "2026-11-09T09:44:25Z",
    "published_at": "2026-09-16",
    "tags": [
     "NTA",
@@ -709,7 +659,7 @@
    "description": "",
    "source": "pib",
    "source_label": "PIB, Government of India — official RSS",
-   "fetched_at": "2026-11-09T01:42:52Z",
+   "fetched_at": "2026-11-09T09:44:32Z",
    "published_at": null,
    "tags": [
     "Government of India",
