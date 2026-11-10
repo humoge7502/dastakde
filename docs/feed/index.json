@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-10T12:35:14Z",
+ "generated_at": "2026-11-10T20:48:30Z",
  "schema_version": 2,
- "total": 92,
+ "total": 94,
  "counts": {
-  "hackathons": 44,
+  "hackathons": 45,
   "scholarships": 7,
   "exams": 28,
-  "schemes": 3,
+  "schemes": 4,
   "internships": 7,
   "fellowships": 3
  },
@@ -18,7 +18,7 @@
   },
   "devfolio": {
    "status": "ok",
-   "items": 16,
+   "items": 17,
    "label": "Devfolio"
   },
   "nta": {
@@ -33,7 +33,7 @@
   },
   "pib": {
    "status": "ok",
-   "items": 0,
+   "items": 3,
    "label": "PIB, Government of India"
   },
   "programs": {
