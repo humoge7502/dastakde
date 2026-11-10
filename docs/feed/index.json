@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-09T20:41:41Z",
+ "generated_at": "2026-11-10T04:05:41Z",
  "schema_version": 2,
- "total": 91,
+ "total": 92,
  "counts": {
-  "hackathons": 44,
+  "hackathons": 45,
   "scholarships": 7,
   "exams": 27,
   "schemes": 3,
@@ -18,7 +18,7 @@
   },
   "devfolio": {
    "status": "ok",
-   "items": 16,
+   "items": 17,
    "label": "Devfolio"
   },
   "nta": {
