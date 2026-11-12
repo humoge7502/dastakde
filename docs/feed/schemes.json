@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T00:37:50Z",
+ "generated_at": "2026-11-12T09:45:11Z",
  "items": [
   {
    "id": "46a242ea6714ac20",
@@ -12,7 +12,7 @@
    "description": "BARC's graduate training and fellowship pathways for engineering, science and health students. Confirm the current cycle, disciplines and eligibility on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Bhabha Atomic Research Centre",
-   "fetched_at": "2026-11-12T00:37:50Z",
+   "fetched_at": "2026-11-12T09:45:11Z",
    "published_at": null,
    "tags": [
     "BARC",
@@ -41,7 +41,7 @@
    "description": "Free coaching scheme for eligible SC, OBC and PM CARES children preparing for competitive examinations. Check available courses and the current intake on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-12T00:37:50Z",
+   "fetched_at": "2026-11-12T09:45:11Z",
    "published_at": null,
    "tags": [
     "free coaching",
@@ -69,7 +69,7 @@
    "description": "Official portal for apprenticeship opportunities and the National Apprenticeship Promotion Scheme. Search live openings, eligibility and employer details on the portal.",
    "source": "programs",
    "source_label": "Official programme page — Apprenticeship India, Government of India",
-   "fetched_at": "2026-11-12T00:37:50Z",
+   "fetched_at": "2026-11-12T09:45:11Z",
    "published_at": null,
    "tags": [
     "apprenticeship",
@@ -84,6 +84,31 @@
     "deadline_status": "check_official",
     "checked_at": "2026-11-01",
     "official_program": true
+   }
+  },
+  {
+   "id": "e13be960e3a12786",
+   "title": "आईएफएफआई (इफ्फी) गोवा 2026 में वेवएक्स स्टार्टअप पवेलियन के लिए पंजीकरण कल बंद हो जाएगा",
+   "org": "Press Information Bureau",
+   "category": "schemes",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335350",
+   "deadline": null,
+   "deadline_status": "notice",
+   "description": "",
+   "source": "pib",
+   "source_label": "PIB, Government of India — official RSS",
+   "fetched_at": "2026-11-12T09:45:11Z",
+   "published_at": null,
+   "tags": [
+    "Government of India",
+    "official"
+   ],
+   "verification": {
+    "domain": "pib.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "notice"
    }
   }
  ]
