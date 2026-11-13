@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T09:28:06Z",
+ "generated_at": "2026-11-13T17:42:35Z",
  "items": [
   {
    "id": "62dbc3cb5bb96ebe",
@@ -12,7 +12,7 @@
    "description": "Doctoral fellowship scheme of the Department of Atomic Energy, administered through BARC. Check the current research areas, eligibility and application cycle on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Bhabha Atomic Research Centre",
-   "fetched_at": "2026-11-13T09:28:06Z",
+   "fetched_at": "2026-11-13T17:42:35Z",
    "published_at": null,
    "tags": [
     "PhD",
@@ -41,7 +41,7 @@
    "description": "Fellowship support for Other Backward Class students pursuing M.Phil or PhD at recognised universities. Confirm eligibility, tenure and the current application route on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-13T09:28:06Z",
+   "fetched_at": "2026-11-13T17:42:35Z",
    "published_at": null,
    "tags": [
     "OBC students",
@@ -70,7 +70,7 @@
    "description": "Fellowship support for Scheduled Caste students pursuing M.Phil or PhD at recognised universities. Check current eligibility, tenure and the application route on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-13T09:28:06Z",
+   "fetched_at": "2026-11-13T17:42:35Z",
    "published_at": null,
    "tags": [
     "SC students",
@@ -86,6 +86,31 @@
     "deadline_status": "check_official",
     "checked_at": "2026-11-01",
     "official_program": true
+   }
+  },
+  {
+   "id": "0026438bee14a17d",
+   "title": "आर्थिक तंगी से शैक्षणिक उत्कृष्टता तक: एनएफएससी फेलोशिप ने एक शोधार्थी को सशक्त बनाया",
+   "org": "Press Information Bureau",
+   "category": "fellowships",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336043",
+   "deadline": null,
+   "deadline_status": "notice",
+   "description": "",
+   "source": "pib",
+   "source_label": "PIB, Government of India — official RSS",
+   "fetched_at": "2026-11-13T17:42:35Z",
+   "published_at": null,
+   "tags": [
+    "Government of India",
+    "official"
+   ],
+   "verification": {
+    "domain": "pib.gov.in",
+    "source_verified": true,
+    "deadline_future": null,
+    "flags": [],
+    "deadline_status": "notice"
    }
   }
  ]
