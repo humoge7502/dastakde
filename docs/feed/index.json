@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-15T21:00:54Z",
+ "generated_at": "2026-11-16T01:59:33Z",
  "schema_version": 2,
- "total": 98,
+ "total": 96,
  "counts": {
-  "hackathons": 48,
+  "hackathons": 47,
   "scholarships": 7,
-  "exams": 30,
+  "exams": 29,
   "schemes": 3,
   "internships": 7,
   "fellowships": 3
@@ -13,7 +13,7 @@
  "sources": {
   "devpost": {
    "status": "ok",
-   "items": 27,
+   "items": 26,
    "label": "Devpost"
   },
   "devfolio": {
@@ -23,7 +23,7 @@
   },
   "nta": {
    "status": "ok",
-   "items": 25,
+   "items": 24,
    "label": "National Testing Agency"
   },
   "cbse": {
