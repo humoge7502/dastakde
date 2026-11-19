@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-19T10:15:43Z",
+ "generated_at": "2026-11-19T20:30:13Z",
  "schema_version": 2,
- "total": 98,
+ "total": 99,
  "counts": {
   "hackathons": 48,
   "scholarships": 7,
   "exams": 30,
   "schemes": 3,
   "internships": 7,
-  "fellowships": 3
+  "fellowships": 4
  },
  "sources": {
   "devpost": {
@@ -33,7 +33,7 @@
   },
   "pib": {
    "status": "ok",
-   "items": 0,
+   "items": 2,
    "label": "PIB, Government of India"
   },
   "programs": {
