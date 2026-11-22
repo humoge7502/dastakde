@@ -1,30 +1,6 @@
 {
- "generated_at": "2026-11-21T20:29:55Z",
+ "generated_at": "2026-11-22T02:12:00Z",
  "items": [
-  {
-   "id": "969ae097fa9abb6b",
-   "title": "Global AI Builder’s Challenge",
-   "org": "Refactor The World",
-   "category": "hackathons",
-   "url": "https://global-ai-builders-challenge.devpost.com/",
-   "deadline": "2026-11-21",
-   "deadline_status": "fixed",
-   "description": "Refactor The World hackathon listed on Devpost. Themes: Machine Learning/AI.",
-   "source": "devpost",
-   "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:50Z",
-   "published_at": null,
-   "tags": [
-    "Machine Learning/Ai"
-   ],
-   "verification": {
-    "domain": "global-ai-builders-challenge.devpost.com",
-    "source_verified": true,
-    "deadline_future": true,
-    "flags": [],
-    "deadline_status": "fixed"
-   }
-  },
   {
    "id": "149d8f40b5f8ca75",
    "title": "Code N Mod",
@@ -36,7 +12,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-11-23 to 2026-11-23. 387 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -58,10 +34,10 @@
    "url": "https://founders-house-kolkata.devfolio.co/",
    "deadline": "2026-11-25",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-11-09 to 2026-11-25. 317 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-11-09 to 2026-11-25. 318 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -86,7 +62,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-12-09 to 2026-12-09. 114 participants registered. Themes: Hardware.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "Hardware",
@@ -111,7 +87,7 @@
    "description": "Yasir Insights hackathon listed on Devpost. Themes: Education, Machine Learning/AI, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Education",
@@ -137,7 +113,7 @@
    "description": "STEM2Connect hackathon listed on Devpost. Themes: Beginner Friendly, Education, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -160,10 +136,10 @@
    "url": "https://clash-of-commits.devfolio.co/",
    "deadline": "2026-11-30",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-12-04 to 2026-12-05. 693 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-12-04 to 2026-12-05. 696 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -188,7 +164,7 @@
    "description": "The Webb Schools CSC hackathon listed on Devpost. Prize pool: $ 300. Themes: Beginner Friendly, Open Ended, Social Good.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:50Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -211,10 +187,10 @@
    "url": "https://health-hackathon.devfolio.co/",
    "deadline": "2026-11-30",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-28 to 2027-01-29. 112 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-28 to 2027-01-29. 113 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -239,7 +215,7 @@
    "description": "Kiro hackathon listed on Devpost. Prize pool: $ 100,000. Themes: Beginner Friendly, Machine Learning/AI, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -265,7 +241,7 @@
    "description": "Hack4TodayOrg hackathon listed on Devpost. Prize pool: $ 300. Themes: Beginner Friendly, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -287,10 +263,10 @@
    "url": "https://hft2026.devfolio.co/",
    "deadline": "2026-12-05",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-02 to 2027-01-03. 493 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-02 to 2027-01-03. 494 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -315,7 +291,7 @@
    "description": "Google hackathon listed on Devpost. Prize pool: $ 25,000. Themes: Design, Machine Learning/AI, Low/No Code.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Design",
@@ -341,7 +317,7 @@
    "description": "Devpost hackathon listed on Devpost. Prize pool: $ 2,500. Themes: AR/VR, Design, Machine Learning/AI.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Ar/Vr",
@@ -367,7 +343,7 @@
    "description": "cite & slayy hackathon listed on Devpost. Prize pool: $ 4,500. Themes: Beginner Friendly, Open Ended, Machine Learning/AI.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:50Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -376,6 +352,31 @@
    ],
    "verification": {
     "domain": "slayy-hacks.devpost.com",
+    "source_verified": true,
+    "deadline_future": true,
+    "flags": [],
+    "deadline_status": "fixed"
+   }
+  },
+  {
+   "id": "dadcafea1cb7a9ae",
+   "title": "promptwaves",
+   "org": "Devfolio community",
+   "category": "hackathons",
+   "url": "https://promptwaves.devfolio.co/",
+   "deadline": "2026-12-08",
+   "deadline_status": "fixed",
+   "description": "Hackathon with open registration on Devfolio (online). Event dates: 2026-12-09 to 2026-12-10. Themes: No Restrictions.",
+   "source": "devfolio",
+   "source_label": "Devfolio — registration open",
+   "fetched_at": "2026-11-22T02:11:49Z",
+   "published_at": null,
+   "tags": [
+    "No Restrictions",
+    "Online"
+   ],
+   "verification": {
+    "domain": "promptwaves.devfolio.co",
     "source_verified": true,
     "deadline_future": true,
     "flags": [],
@@ -393,7 +394,7 @@
    "description": "reddit hackathon listed on Devpost. Prize pool: $ 35,000. Themes: Beginner Friendly, Gaming.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -418,7 +419,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2026-12-26 to 2026-12-27. 62 participants registered. Themes: Blockchain, AI, HealthTech.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "Blockchain",
@@ -445,7 +446,7 @@
    "description": "SafeSpace hackathon listed on Devpost. Prize pool: $ 280. Themes: Beginner Friendly, Cybersecurity, Social Good.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -454,31 +455,6 @@
    ],
    "verification": {
     "domain": "safespace-hacks.devpost.com",
-    "source_verified": true,
-    "deadline_future": true,
-    "flags": [],
-    "deadline_status": "fixed"
-   }
-  },
-  {
-   "id": "30e6d3ac26dbf4c3",
-   "title": "Green Shift Hacks",
-   "org": "HackathonForEveryone",
-   "category": "hackathons",
-   "url": "https://green-shift-hacks.devpost.com/",
-   "deadline": "2026-12-10",
-   "deadline_status": "fixed",
-   "description": "HackathonForEveryone hackathon listed on Devpost. Prize pool: $ 125. Themes: Beginner Friendly, Social Good.",
-   "source": "devpost",
-   "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:50Z",
-   "published_at": null,
-   "tags": [
-    "Beginner Friendly",
-    "Social Good"
-   ],
-   "verification": {
-    "domain": "green-shift-hacks.devpost.com",
     "source_verified": true,
     "deadline_future": true,
     "flags": [],
@@ -496,7 +472,7 @@
    "description": "Hackathon with open registration on Devfolio (online). Event dates: 2026-12-11 to 2026-12-13. 2005 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -521,7 +497,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-03 to 2027-01-04. 618 participants registered. Themes: FinTech, AI, HealthTech.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "FinTech",
@@ -548,7 +524,7 @@
    "description": "AWS hackathon listed on Devpost. Prize pool: $ 64,000. Themes: Machine Learning/AI, Productivity, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Machine Learning/Ai",
@@ -574,7 +550,7 @@
    "description": "Neo4j hackathon listed on Devpost. Themes: Databases, Machine Learning/AI, Productivity.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Databases",
@@ -600,7 +576,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-30 to 2027-01-31. 146 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -625,7 +601,7 @@
    "description": "QNX hackathon listed on Devpost. Prize pool: $ 50,000. Themes: IoT, Machine Learning/AI, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Iot",
@@ -651,7 +627,7 @@
    "description": "HETIC hackathon listed on Devpost. Prize pool: € 1,000. Themes: Low/No Code, Machine Learning/AI, Productivity.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:50Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Low/No Code",
@@ -677,7 +653,7 @@
    "description": "AccessEDnpo hackathon listed on Devpost. Prize pool: $ 225. Themes: Beginner Friendly, Education, Social Good.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:50Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -703,7 +679,7 @@
    "description": "Arbiter hackathon listed on Devpost. Prize pool: $ 7,800. Themes: Beginner Friendly, Machine Learning/AI, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -729,7 +705,7 @@
    "description": "Atlassian hackathon listed on Devpost. Prize pool: $ 120,000. Themes: Machine Learning/AI, Enterprise, Productivity.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Machine Learning/Ai",
@@ -755,7 +731,7 @@
    "description": "Shail & Sharaf hackathon listed on Devpost. Prize pool: $CAD 1,050. Themes: Beginner Friendly, IoT, Machine Learning/AI.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Beginner Friendly",
@@ -778,10 +754,10 @@
    "url": "https://hacksprint-3.devfolio.co/",
    "deadline": "2026-12-28",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-02-05 to 2027-02-06. 235 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-02-05 to 2027-02-06. 236 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -803,10 +779,10 @@
    "url": "https://innerve-11.devfolio.co/",
    "deadline": "2026-12-30",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-29 to 2027-01-30. 190 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-29 to 2027-01-30. 191 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -828,10 +804,10 @@
    "url": "https://goa-buildathon.devfolio.co/",
    "deadline": "2026-12-31",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-16 to 2027-01-17. 339 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-16 to 2027-01-17. 340 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -856,7 +832,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-22 to 2027-01-24. 1001 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -881,7 +857,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-15 to 2027-01-16. 93 participants registered. Themes: AI, HealthTech, Hardware.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "AI",
@@ -908,7 +884,7 @@
    "description": "Binnovative hackathon listed on Devpost. Themes: Music/Art, Beginner Friendly, Open Ended.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:50Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Music/Art",
@@ -934,7 +910,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-01-22 to 2027-01-24. 275 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -959,7 +935,7 @@
    "description": "Cognizant hackathon listed on Devpost. Prize pool: $ 10,000. Themes: Machine Learning/AI, Web, Social Good.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Machine Learning/Ai",
@@ -985,7 +961,7 @@
    "description": "Cloud9 hackathon listed on Devpost. Prize pool: $ 25,000. Themes: Databases, Gaming, Machine Learning/AI.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Databases",
@@ -1011,7 +987,7 @@
    "description": "Student Organization hackathon listed on Devpost. Themes: DevOps, Machine Learning/AI, Robotic Process Automation.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:50Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Devops",
@@ -1037,7 +1013,7 @@
    "description": "nill hackathon listed on Devpost. Themes: Education, Machine Learning/AI, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Education",
@@ -1063,7 +1039,7 @@
    "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-02-27 to 2027-02-28. 63 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -1088,7 +1064,7 @@
    "description": "XR Bootcamp hackathon listed on Devpost. Prize pool: $ 50,000. Themes: AR/VR, Machine Learning/AI, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:50Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Ar/Vr",
@@ -1111,10 +1087,10 @@
    "url": "https://diversion2k27.devfolio.co/",
    "deadline": "2027-02-10",
    "deadline_status": "fixed",
-   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-03-06 to 2027-03-07. 270 participants registered. Themes: No Restrictions.",
+   "description": "Hackathon with open registration on Devfolio (in person). Event dates: 2027-03-06 to 2027-03-07. 271 participants registered. Themes: No Restrictions.",
    "source": "devfolio",
    "source_label": "Devfolio — registration open",
-   "fetched_at": "2026-11-21T20:29:51Z",
+   "fetched_at": "2026-11-22T02:11:49Z",
    "published_at": null,
    "tags": [
     "No Restrictions",
@@ -1139,7 +1115,7 @@
    "description": "Google hackathon listed on Devpost. Prize pool: $ 30,000. Themes: Machine Learning/AI, Mobile, Web.",
    "source": "devpost",
    "source_label": "Devpost API — open hackathons",
-   "fetched_at": "2026-11-21T20:29:49Z",
+   "fetched_at": "2026-11-22T02:11:48Z",
    "published_at": null,
    "tags": [
     "Machine Learning/Ai",
@@ -1148,6 +1124,55 @@
    ],
    "verification": {
     "domain": "firebasehybridaihackathon.devpost.com",
+    "source_verified": true,
+    "deadline_future": true,
+    "flags": [],
+    "deadline_status": "fixed"
+   }
+  },
+  {
+   "id": "a4eeb9f110eef7f9",
+   "title": "Hack Western 13",
+   "org": "Hack Western",
+   "category": "hackathons",
+   "url": "https://hack-western-13.devpost.com/",
+   "deadline": "2027-11-20",
+   "deadline_status": "fixed",
+   "description": "Hack Western hackathon listed on Devpost. Themes: Beginner Friendly, Open Ended.",
+   "source": "devpost",
+   "source_label": "Devpost API — open hackathons",
+   "fetched_at": "2026-11-22T02:11:48Z",
+   "published_at": null,
+   "tags": [
+    "Beginner Friendly",
+    "Open Ended"
+   ],
+   "verification": {
+    "domain": "hack-western-13.devpost.com",
+    "source_verified": true,
+    "deadline_future": true,
+    "flags": [],
+    "deadline_status": "fixed"
+   }
+  },
+  {
+   "id": "969ae097fa9abb6b",
+   "title": "Global AI Builder’s Challenge",
+   "org": "Refactor The World",
+   "category": "hackathons",
+   "url": "https://global-ai-builders-challenge.devpost.com/",
+   "deadline": "2027-11-21",
+   "deadline_status": "fixed",
+   "description": "Refactor The World hackathon listed on Devpost. Themes: Machine Learning/AI.",
+   "source": "devpost",
+   "source_label": "Devpost API — open hackathons",
+   "fetched_at": "2026-11-22T02:11:48Z",
+   "published_at": null,
+   "tags": [
+    "Machine Learning/Ai"
+   ],
+   "verification": {
+    "domain": "global-ai-builders-challenge.devpost.com",
     "source_verified": true,
     "deadline_future": true,
     "flags": [],
@@ -1165,7 +1190,7 @@
    "description": "Nationwide innovation hackathon for students, with problem statements from ministries and organisations. The official portal publishes the current edition, registration route and schedule.",
    "source": "programs",
    "source_label": "Official programme page — Ministry of Education, Government of India",
-   "fetched_at": "2026-11-21T20:29:55Z",
+   "fetched_at": "2026-11-22T02:12:00Z",
    "published_at": null,
    "tags": [
     "SIH",
