@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T14:16:06Z",
+ "generated_at": "2026-11-26T00:17:11Z",
  "items": [
   {
    "id": "46a242ea6714ac20",
@@ -12,7 +12,7 @@
    "description": "BARC's graduate training and fellowship pathways for engineering, science and health students. Confirm the current cycle, disciplines and eligibility on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Bhabha Atomic Research Centre",
-   "fetched_at": "2026-11-25T14:16:06Z",
+   "fetched_at": "2026-11-26T00:17:11Z",
    "published_at": null,
    "tags": [
     "BARC",
@@ -41,7 +41,7 @@
    "description": "Free coaching scheme for eligible SC, OBC and PM CARES children preparing for competitive examinations. Check available courses and the current intake on the official page.",
    "source": "programs",
    "source_label": "Official programme page — Department of Social Justice & Empowerment",
-   "fetched_at": "2026-11-25T14:16:06Z",
+   "fetched_at": "2026-11-26T00:17:11Z",
    "published_at": null,
    "tags": [
     "free coaching",
@@ -69,7 +69,7 @@
    "description": "Official portal for apprenticeship opportunities and the National Apprenticeship Promotion Scheme. Search live openings, eligibility and employer details on the portal.",
    "source": "programs",
    "source_label": "Official programme page — Apprenticeship India, Government of India",
-   "fetched_at": "2026-11-25T14:16:06Z",
+   "fetched_at": "2026-11-26T00:17:11Z",
    "published_at": null,
    "tags": [
     "apprenticeship",
@@ -87,17 +87,17 @@
    }
   },
   {
-   "id": "5610e69c47b1d6da",
-   "title": "भारत के एमएसएमई प्रगति की गाथा में एक नया कीर्तिमान: 10 करोड़ पंजीकरण के साथ एक जीवंत और सशक्त आत्मनिर्भर भारत की दिशा में 10 करोड़ कदम!",
+   "id": "33f411777ce42338",
+   "title": "श्रेष्ठ (एनईटीएस) 2027 के लिए आवेदन करने के केवल पांच दिन शेष; मंत्रालय ने पात्र विद्यार्थियों से गुणवत्तापूर्ण आवासीय शिक्षा का अवसर प्राप्त करने की अपील की",
    "org": "Press Information Bureau",
    "category": "schemes",
-   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341454",
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341628",
    "deadline": null,
    "deadline_status": "notice",
    "description": "",
    "source": "pib",
    "source_label": "PIB, Government of India — official RSS",
-   "fetched_at": "2026-11-25T14:16:06Z",
+   "fetched_at": "2026-11-26T00:17:11Z",
    "published_at": null,
    "tags": [
     "Government of India",
